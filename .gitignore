@@ -25,6 +25,8 @@
 *.1
 *.dvi
 
+*.pdf
+
 tmp
 build
 data
